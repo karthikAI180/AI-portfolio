@@ -84,31 +84,31 @@ The zero-Cholesterol group was especially important because patients with zero C
 ## Visualizations
 
 ### Age Distribution
-![Age Distribution](images/01_age_distribution.png)
+![Age Distribution](01-heart-disease-eda/images/01_age_distribution.png)
 
 ### Gender Ratio
-![Gender Ratio](images/02_gender_ratio.png)
+![Gender Ratio](01-heart-disease-eda/images/02_gender_ratio.png)
 
 ### Disease Ratio
-![Disease Ratio](images/03_disease_ratio.png)
+![Disease Ratio](01-heart-disease-eda/images/03_disease_ratio.png)
 
 ### Numeric Boxplots
-![Numeric Boxplots](images/04_numeric_boxplots.png)
+![Numeric Boxplots](01-heart-disease-eda/images/04_numeric_boxplots.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/05_correlation_heatmap.png)
+![Correlation Heatmap](01-heart-disease-eda/images/05_correlation_heatmap.png)
 
 ### Chest Pain Disease Rate
-![Chest Pain Disease Rate](images/06_chestpain_disease_rate.png)
+![Chest Pain Disease Rate](01-heart-disease-eda/images/06_chestpain_disease_rate.png)
 
 ### Exercise Angina Disease Rate
-![Exercise Angina Disease Rate](images/07_exercise_angina_disease_rate.png)
+![Exercise Angina Disease Rate](01-heart-disease-eda/images/07_exercise_angina_disease_rate.png)
 
 ### ST Slope Disease Rate
-![ST Slope Disease Rate](images/08_st_slope_disease_rate.png)
+![ST Slope Disease Rate](01-heart-disease-eda/images/08_st_slope_disease_rate.png)
 
 ### Age Group and ST Slope
-![Age Group and ST Slope](images/09_age_group_st_slope.png)
+![Age Group and ST Slope](01-heart-disease-eda/images/09_age_group_st_slope.png)
 
 ## Methods Used
 
