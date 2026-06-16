@@ -83,61 +83,32 @@ The zero-Cholesterol group was especially important because patients with zero C
 
 ## Visualizations
 
-The notebook includes the following saved visualizations.
-
 ### Age Distribution
-
 ![Age Distribution](images/01_age_distribution.png)
 
-This chart shows the age distribution of patients in the dataset.
-
 ### Gender Ratio
-
 ![Gender Ratio](images/02_gender_ratio.png)
 
-This chart shows the dataset is heavily male-dominated.
-
 ### Disease Ratio
-
 ![Disease Ratio](images/03_disease_ratio.png)
 
-This chart shows the target variable is fairly balanced between healthy and diseased patients.
-
-### Numeric Feature Comparison
-
+### Numeric Boxplots
 ![Numeric Boxplots](images/04_numeric_boxplots.png)
 
-These boxplots compare `Age`, `MaxHR`, and `Oldpeak` between healthy and diseased patients.
-
 ### Correlation Heatmap
-
 ![Correlation Heatmap](images/05_correlation_heatmap.png)
 
-The heatmap shows relationships between numeric features.
-
-### Disease Rate by Chest Pain Type
-
+### Chest Pain Disease Rate
 ![Chest Pain Disease Rate](images/06_chestpain_disease_rate.png)
 
-This chart shows that `ASY` chest pain has the highest disease rate among chest pain categories.
-
-### Disease Rate by Exercise-Induced Angina
-
+### Exercise Angina Disease Rate
 ![Exercise Angina Disease Rate](images/07_exercise_angina_disease_rate.png)
 
-This chart shows that patients with exercise-induced angina have a much higher disease rate.
-
-### Disease Rate by ST Slope
-
+### ST Slope Disease Rate
 ![ST Slope Disease Rate](images/08_st_slope_disease_rate.png)
 
-This chart shows that `Flat` and `Down` ST slope categories have much higher disease rates than `Up`.
-
-### Age Group and ST Slope Risk
-
+### Age Group and ST Slope
 ![Age Group and ST Slope](images/09_age_group_st_slope.png)
-
-This chart shows that abnormal ST slope patterns remain high-risk across age groups, especially among older patients.
 
 ## Methods Used
 
